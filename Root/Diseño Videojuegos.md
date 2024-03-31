@@ -1,6 +1,6 @@
 # Games and Roles
 
-Versión en español [aquí](https://medium.com/@jx1200/juegos-y-roles-508f1adab42b).
+Versión en español [aquí](https://github.com/jsfabiani/Portfolio/blob/main/Root/Dise%C3%B1o%20Videojuegos%20Espa%C3%B1ol.md).
 
 
 There’s several ways to define a concept such as “game.” An academic definition would center on finding a series of necessary and jointly sufficient conditions, that is, a series of characteristics that must be in every game, and that, when put together, make something into a game. Those are, for example, the kind of definitions that talk about a game as a free, voluntary, and rules-based activity.
